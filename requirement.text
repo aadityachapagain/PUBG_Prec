@@ -1,0 +1,10 @@
+List of dependencies:
+	
+	1.dataset link (https://www.kaggle.com/c/pubg-finish-placement-prediction/data)
+	2.sklearn
+	3.Matplotlib
+	4.seaborn
+	5.keras
+	6.pandas
+	7.Numpy
+	8.Scipy
